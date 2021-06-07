@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\bin\Debug\GAD_MicroProject.exe.config
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\bin\Debug\GAD_MicroProject.exe
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\bin\Debug\GAD_MicroProject.pdb
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\bin\Debug\GAD_MicroProject.xml
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\obj\Debug\GAD_MicroProject.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\obj\Debug\GAD_MicroProject.Form1.resources
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\obj\Debug\GAD_MicroProject.Resources.resources
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\obj\Debug\GAD_MicroProject.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\obj\Debug\GAD_MicroProject.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\obj\Debug\GAD_MicroProject.exe
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\obj\Debug\GAD_MicroProject.xml
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\obj\Debug\GAD_MicroProject.pdb
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\obj\Debug\GAD_MicroProject.Form2.resources
+C:\Users\User\source\repos\GAD_MicroProject\GAD_MicroProject\bin\Debug\userInfo.accdb
