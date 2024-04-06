@@ -5,4 +5,4 @@ Its an app developed to register yourself in a system particulary to take vaccin
 Devlopers are:
 Janhavi Karpe 
 Prerna Jadhav
-Shreya pichad
+
